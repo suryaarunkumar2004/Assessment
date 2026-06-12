@@ -1,0 +1,11 @@
+{
+  "name": "sample-node-proj",
+  "version": "1.0.0",
+  "description": "Basic Node.js practice project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Surya Arunkumar",
+  "license": "ISC"
+}

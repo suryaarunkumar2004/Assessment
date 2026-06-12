@@ -1,0 +1,2 @@
+This is a sample text file.
+Used for testing file operations in Node.js.
